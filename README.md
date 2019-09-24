@@ -11,3 +11,4 @@ Build the system using the provided `Makefile` with the command:
 Then run the application using the command:
 
 `./chirp`
+[![Build Status](https://travis-ci.org/mshimada2/Chirper.svg?branch=master)](https://travis-ci.org/mshimada2/Chirper)
