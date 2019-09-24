@@ -22,8 +22,13 @@ int main()
     }
   }while( chirp.length() > 100 );
 
+  if(chirp != "quit")
+  {
+
+
   cout<<"Thank you for sharing your chirp:\n"<<chirp<<endl;
   cout<<"Have a nice day!\n";  
+  }
 
   return 0;
 }
